@@ -4,7 +4,7 @@
     "details": [
     {
       "appID": "P3JKME2834.store.masttro.token",
-      "paths": ["/app/", "NOT *"]
+      "paths": ["NOT https://universal-links-mstt-test.herokuapp.com/arduino.html", "NOT https://universal-links-mstt-test.herokuapp.com", "/app*"]
     }
     ]
   }
