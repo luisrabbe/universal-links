@@ -1,11 +1,11 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "P3JKME2834.store.masttro.token",
-				"paths": ["*"]
-			}
-		]
-	}
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "P3JKME2834.store.masttro.token",
+      "paths": ["*"]
+    }
+    ]
+  }
 }
